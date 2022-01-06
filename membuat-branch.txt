@@ -1,6 +1,7 @@
 Membuat branch
 Mengetahui kegunaan dari branch
-fitur kedua sedang ditambahkan
+menambahkan fitur satu
+fitur satu ditambahkan lagi
 - Mencoba
 - Menambahkan
 Menambahkan satu materi branch
