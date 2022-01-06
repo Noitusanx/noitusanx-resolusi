@@ -2,6 +2,7 @@ Membuat branch
 Mengetes cara membuat branch
 Mengetahui kegunaan dari branch
 menambahkan fitur satu
+fitur satu ditambahkan lagi
 - Mencoba
 - Menambahkan
 Menambahkan satu materi branch
